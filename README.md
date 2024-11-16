@@ -1,6 +1,6 @@
 Projeto pessoal para praticar programação em C.
 
-Calculador TAXA METABOLICA BASAL.
+Calculadora TAXA METABOLICA BASAL.
 
 Retorna o valor em calorias para manutenção.
 
